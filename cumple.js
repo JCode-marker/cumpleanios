@@ -33,6 +33,6 @@
 
     countdown(
         "countdown",
-        "Mar 05, 2021 18:00:00",
+        "Mar 05, 2021 17:00:00",
         "cumpleaños-avengers.mp4"
     )
